@@ -72,7 +72,7 @@ export default function Designer() {
 
   return (
     <Layout>
-      <h1>Frontend Team</h1>
+      <h1>Designer Team</h1>
       <TableContainer component={Paper}>
         <Table sx={{ minWidth: 700 }} aria-label="customized table">
           <TableHead>
